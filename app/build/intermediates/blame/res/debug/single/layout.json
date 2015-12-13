@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dgts__activity_pin_code.xml",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.2\\res\\layout\\dgts__activity_pin_code.xml"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_messageme.xml",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\src\\main\\res\\layout\\activity_messageme.xml"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sign_up.xml",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_activity_layout.xml",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\layout\\com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__player_activity.xml",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.8.0\\res\\layout\\tw__player_activity.xml"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_small.xml",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\layout\\messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_round.xml",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\layout\\messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_todo_add.xml",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\src\\main\\res\\layout\\layout_todo_add.xml"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_round.xml",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\layout\\messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_tooltip_bubble.xml",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\layout\\com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dgts__country_row.xml",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.2\\res\\layout\\dgts__country_row.xml"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__tweet_compact.xml",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.8.0\\res\\layout\\tw__tweet_compact.xml"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dgts__state_button.xml",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.2\\res\\layout\\dgts__state_button.xml"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dgts__activity_contacts.xml",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.2\\res\\layout\\dgts__activity_contacts.xml"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_login_fragment.xml",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\layout\\com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__composer_view.xml",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\1.0.2\\res\\layout\\tw__composer_view.xml"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_large.xml",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\layout\\messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__tweet.xml",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.8.0\\res\\layout\\tw__tweet.xml"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_large.xml",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\layout\\messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__action_bar.xml",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.8.0\\res\\layout\\tw__action_bar.xml"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__activity_composer.xml",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\1.0.2\\res\\layout\\tw__activity_composer.xml"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_compose_message.xml",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\src\\main\\res\\layout\\activity_compose_message.xml"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__activity_share_email.xml",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.2\\res\\layout\\tw__activity_share_email.xml"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dgts__activity_phone_number.xml",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.2\\res\\layout\\dgts__activity_phone_number.xml"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_small.xml",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\layout\\messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__app_card.xml",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\1.0.2\\res\\layout\\tw__app_card.xml"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_todo_add2.xml",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\src\\main\\res\\layout\\layout_todo_add2.xml"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dgts__activity_confirmation.xml",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.2\\res\\layout\\dgts__activity_confirmation.xml"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dgts__activity_failure.xml",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.2\\res\\layout\\dgts__activity_failure.xml"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__activity_oauth.xml",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.2\\res\\layout\\tw__activity_oauth.xml"
+    }
+]

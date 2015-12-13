@@ -1,0 +1,112 @@
+[
+    {
+        "outputFile": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 12,
+                    "endOffset": 356
+                },
+                "from": {
+                    "file": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 177,
+                        "endLine": 10,
+                        "endColumn": 12,
+                        "endOffset": 478
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 361,
+                    "endLine": 14,
+                    "endColumn": 12,
+                    "endOffset": 866
+                },
+                "from": {
+                    "file": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\1.0.2\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 236,
+                        "endLine": 11,
+                        "endColumn": 12,
+                        "endOffset": 741
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 871,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 1382
+                },
+                "from": {
+                    "file": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\1.0.2\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 746,
+                        "endLine": 19,
+                        "endColumn": 12,
+                        "endOffset": 1257
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1387,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 1544
+                },
+                "from": {
+                    "file": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.2\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 227,
+                        "endLine": 6,
+                        "endColumn": 12,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1549,
+                    "endLine": 30,
+                    "endColumn": 12,
+                    "endOffset": 1810
+                },
+                "from": {
+                    "file": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.8.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 230,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 491
+                    }
+                }
+            }
+        ]
+    }
+]

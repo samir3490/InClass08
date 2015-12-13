@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_selector.xml",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\drawable\\messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dgts__digits_btn.xml",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.2\\res\\drawable\\dgts__digits_btn.xml"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__login_btn_default_light.xml",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.2\\res\\drawable\\tw__login_btn_default_light.xml"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__player_overlay.xml",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.8.0\\res\\drawable\\tw__player_overlay.xml"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__login_btn_pressed.xml",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.2\\res\\drawable\\tw__login_btn_pressed.xml"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__login_btn.xml",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.2\\res\\drawable\\tw__login_btn.xml"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_dark.xml",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.2\\res\\drawable\\progress_dark.xml"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__bg_tweet_compact.xml",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.8.0\\res\\drawable\\tw__bg_tweet_compact.xml"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__bg_tweet.xml",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.8.0\\res\\drawable\\tw__bg_tweet.xml"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__install_button_border.xml",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\1.0.2\\res\\drawable\\tw__install_button_border.xml"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_background.xml",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\drawable\\com_facebook_button_background.xml"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_round.xml",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\drawable\\messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__btn_composer_tweet.xml",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\1.0.2\\res\\drawable\\tw__btn_composer_tweet.xml"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__app_info_layout_border.xml",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\1.0.2\\res\\drawable\\tw__app_info_layout_border.xml"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__login_btn_pressed_light.xml",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.2\\res\\drawable\\tw__login_btn_pressed_light.xml"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__login_btn_text_color_light.xml",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.2\\res\\drawable\\tw__login_btn_text_color_light.xml"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_round.xml",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\drawable\\messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_send_background.xml",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\drawable\\com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__login_btn_light.xml",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.2\\res\\drawable\\tw__login_btn_light.xml"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dgts__digits_btn_pressed.xml",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.2\\res\\drawable\\dgts__digits_btn_pressed.xml"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_light.xml",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.2\\res\\drawable\\progress_light.xml"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__login_btn_disabled.xml",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.2\\res\\drawable\\tw__login_btn_disabled.xml"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__like_action.xml",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.8.0\\res\\drawable\\tw__like_action.xml"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__login_btn_default.xml",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.2\\res\\drawable\\tw__login_btn_default.xml"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__share_action.xml",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.8.0\\res\\drawable\\tw__share_action.xml"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_silver_background.xml",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\drawable\\com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like_background.xml",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\drawable\\com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dgts__digits_btn_default.xml",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.2\\res\\drawable\\dgts__digits_btn_default.xml"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__transparent.xml",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.2\\res\\drawable\\tw__transparent.xml"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\drawable\\messenger_button_blue_bg_selector.xml"
+    }
+]

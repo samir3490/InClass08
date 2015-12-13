@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\dgts__login_header.png",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.2\\res\\drawable-xxxhdpi\\dgts__login_header.png"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\dgts__ic_success.png",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.2\\res\\drawable-xxxhdpi\\dgts__ic_success.png"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\dgts__logo_name.png",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.2\\res\\drawable-xxxhdpi\\dgts__logo_name.png"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\dgts__spinner_light.png",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.2\\res\\drawable-xxxhdpi\\dgts__spinner_light.png"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\dgts__addressbook_header.png",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.2\\res\\drawable-xxxhdpi\\dgts__addressbook_header.png"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\dgts__spinner_dark.png",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.2\\res\\drawable-xxxhdpi\\dgts__spinner_dark.png"
+    },
+    {
+        "merged": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\dgts__logo.png",
+        "source": "E:\\Dell Laptop Files\\uncc\\SecondSEm\\New Parse\\Final Project\\InClass08\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.2\\res\\drawable-xxxhdpi\\dgts__logo.png"
+    }
+]

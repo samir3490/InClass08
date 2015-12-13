@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\samir\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3\5fc52c41ef0239d1093a1eb7c3697036183677ce\gson-2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="E:\Dell Laptop Files\uncc\SecondSEm\New Parse\Final Project\InClass08\app\build\intermediates\pre-dexed\debug\gson-2.3_998bf5509546b8b085f3456fe294d7a6f3984568.jar" />
+    </item>
+    <item
+        jar="C:\Users\samir\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.8.0\a517f29ed06be2b2879524fcd94b6e9b36e2e0b5\retrofit-1.8.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a517f29ed06be2b2879524fcd94b6e9b36e2e0b5">
+        <dex dex="E:\Dell Laptop Files\uncc\SecondSEm\New Parse\Final Project\InClass08\app\build\intermediates\pre-dexed\debug\retrofit-1.8.0_2d16831917c412d32d49493e7c7cf0600ac40251.jar" />
+    </item>
+    <item
+        jar="E:\Dell Laptop Files\uncc\SecondSEm\New Parse\Final Project\InClass08\app\build\intermediates\exploded-aar\com.twitter.sdk.android\twitter\1.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6590bc47a23ef053fcd8c03c36bc417979318941">
+        <dex dex="E:\Dell Laptop Files\uncc\SecondSEm\New Parse\Final Project\InClass08\app\build\intermediates\pre-dexed\debug\com.twitter.sdk.android-twitter-1.11.0_ad0fff7aa167901d3cc1bab2d49409f07aeab8bd.jar" />
+    </item>
+    <item
+        jar="E:\Dell Laptop Files\uncc\SecondSEm\New Parse\Final Project\InClass08\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="E:\Dell Laptop Files\uncc\SecondSEm\New Parse\Final Project\InClass08\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1_5ed8604051723f83852a9fca5b834e7219e7e6ac.jar" />
+    </item>
+    <item
+        jar="C:\Users\samir\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="E:\Dell Laptop Files\uncc\SecondSEm\New Parse\Final Project\InClass08\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1_6a30647cb39a40e9adcb5717ae4cf89169415cc3.jar" />
+    </item>
+    <item
+        jar="E:\Dell Laptop Files\uncc\SecondSEm\New Parse\Final Project\InClass08\app\build\intermediates\exploded-aar\io.fabric.sdk.android\fabric\1.3.10\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a5db9a2dd46d84285ef737f65030b74b6e8ee2a4">
+        <dex dex="E:\Dell Laptop Files\uncc\SecondSEm\New Parse\Final Project\InClass08\app\build\intermediates\pre-dexed\debug\io.fabric.sdk.android-fabric-1.3.10_1afe818d030f5c9c974a03dcdd1805787a7dab01.jar" />
+    </item>
+    <item
+        jar="E:\Dell Laptop Files\uncc\SecondSEm\New Parse\Final Project\InClass08\app\build\intermediates\exploded-aar\com.twitter.sdk.android\tweet-composer\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7066f2c5d8b2e4d2232d0713436f80e929afd2fd">
+        <dex dex="E:\Dell Laptop Files\uncc\SecondSEm\New Parse\Final Project\InClass08\app\build\intermediates\pre-dexed\debug\com.twitter.sdk.android-tweet-composer-1.0.2_8ad248e9ff23c3cadc1374096c6ce190211e1eb6.jar" />
+    </item>
+    <item
+        jar="C:\Users\samir\.gradle\caches\modules-2\files-2.1\com.twitter\twitter-text\1.13.0\78415b95ae3184c5926d593feab64bfc0b73b2dd\twitter-text-1.13.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="78415b95ae3184c5926d593feab64bfc0b73b2dd">
+        <dex dex="E:\Dell Laptop Files\uncc\SecondSEm\New Parse\Final Project\InClass08\app\build\intermediates\pre-dexed\debug\twitter-text-1.13.0_70be4def54b15d48371a53e4bf0debd188076b9f.jar" />
+    </item>
+    <item
+        jar="E:\Dell Laptop Files\uncc\SecondSEm\New Parse\Final Project\InClass08\app\libs\ParseCrashReporting-1.8.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6abf1314a88755b8fa034b2ae99956fc02170ed1">
+        <dex dex="E:\Dell Laptop Files\uncc\SecondSEm\New Parse\Final Project\InClass08\app\build\intermediates\pre-dexed\debug\ParseCrashReporting-1.8.3_9a122a6650d9f6ee0c0b769b050f3323436e741d.jar" />
+    </item>
+    <item
+        jar="E:\Dell Laptop Files\uncc\SecondSEm\New Parse\Final Project\InClass08\app\build\intermediates\exploded-aar\com.twitter.sdk.android\twitter-core\1.6.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a8545990e12d9c89de984ed609b307df6b0a8216">
+        <dex dex="E:\Dell Laptop Files\uncc\SecondSEm\New Parse\Final Project\InClass08\app\build\intermediates\pre-dexed\debug\com.twitter.sdk.android-twitter-core-1.6.2_7def44e46d9c9dc164289232c8ac85b20587a283.jar" />
+    </item>
+    <item
+        jar="E:\Dell Laptop Files\uncc\SecondSEm\New Parse\Final Project\InClass08\app\build\intermediates\exploded-aar\com.digits.sdk.android\digits\1.9.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="682bdcfcd0211820edd4f2b2a5cfc79c993b87a4">
+        <dex dex="E:\Dell Laptop Files\uncc\SecondSEm\New Parse\Final Project\InClass08\app\build\intermediates\pre-dexed\debug\com.digits.sdk.android-digits-1.9.2_0c160b0a7caab5d345f3a9c65fce2e10f0365361.jar" />
+    </item>
+    <item
+        jar="E:\Dell Laptop Files\uncc\SecondSEm\New Parse\Final Project\InClass08\app\libs\Parse-1.8.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="56dfc827c23c1f0be64eff2ef556633ea95b16ad">
+        <dex dex="E:\Dell Laptop Files\uncc\SecondSEm\New Parse\Final Project\InClass08\app\build\intermediates\pre-dexed\debug\Parse-1.8.3_f1dd5d40d5ae09068f5a9c5254f7c1eceea757a7.jar" />
+    </item>
+    <item
+        jar="E:\Dell Laptop Files\uncc\SecondSEm\New Parse\Final Project\InClass08\app\build\intermediates\exploded-aar\com.twitter.sdk.android\tweet-ui\1.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="24fb037e57a90cd94e5c9cf21f6d7e6e63de8598">
+        <dex dex="E:\Dell Laptop Files\uncc\SecondSEm\New Parse\Final Project\InClass08\app\build\intermediates\pre-dexed\debug\com.twitter.sdk.android-tweet-ui-1.8.0_94ec36e4b78ac664974474635769771075cf1b1d.jar" />
+    </item>
+    <item
+        jar="C:\Users\samir\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="E:\Dell Laptop Files\uncc\SecondSEm\New Parse\Final Project\InClass08\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_870fcbb22d9485a8c27df002bbac06c2ab8d9730.jar" />
+    </item>
+    <item
+        jar="E:\Dell Laptop Files\uncc\SecondSEm\New Parse\Final Project\InClass08\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="E:\Dell Laptop Files\uncc\SecondSEm\New Parse\Final Project\InClass08\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.2.1_88ec54986ed582a465c83428c0635763a6678fc0.jar" />
+    </item>
+    <item
+        jar="E:\Dell Laptop Files\uncc\SecondSEm\New Parse\Final Project\InClass08\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.6.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1c1afa0ab2a8197a5da1b36c4167a9e479cb74d9">
+        <dex dex="E:\Dell Laptop Files\uncc\SecondSEm\New Parse\Final Project\InClass08\app\build\intermediates\pre-dexed\debug\com.facebook.android-facebook-android-sdk-4.6.0_c163266d2b94f35e845265cc7b82b1f0c1406e4f.jar" />
+    </item>
+    <item
+        jar="C:\Users\samir\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.0\6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd\bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="E:\Dell Laptop Files\uncc\SecondSEm\New Parse\Final Project\InClass08\app\build\intermediates\pre-dexed\debug\bolts-android-1.2.0_ce0c93b1bb7e27874d10628dfbb537ce352fd1f6.jar" />
+    </item>
+
+</items>
